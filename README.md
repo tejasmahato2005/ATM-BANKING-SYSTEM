@@ -8,7 +8,7 @@ This project is designed in such a way that to perform transactions or to make a
 # 🏦 ATM Banking System in C
 
 This repository contains a **console-based ATM Banking System** implemented in the C programming language.  
-It simulates the basic features of an Automated Teller Machine (ATM), allowing users to perform banking operations such as **checking balance, withdrawing, depositing, and changing PIN**.
+It simulates the basic features of an Automated Teller Machine (ATM), allowing users to perform banking operations such as **checking balance, withdrawing, depositing**.
 
 ---
 
